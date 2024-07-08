@@ -1,0 +1,4 @@
+# .htaccess en el directorio docs
+<Files "Curriculum_EC.pdf">
+    Require all granted
+</Files>
